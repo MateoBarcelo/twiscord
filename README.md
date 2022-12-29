@@ -11,7 +11,5 @@ TUTORIAL
 
 -Una vez que tenemos el bot de Discord en nuestro servidor y las claves de acceso de Twitter, es momento de abrir el programa y poner los datos en él. Pincha los tres puntitos (...) y pon las claves que te pide, además también pon la ID del canal donde quieres que se publique el anuncio en Discord, esto se consigue dándo click derecho sobre un canal y "Copiar ID".
 
-**Si todo va bien, ya puedes empezar a utilizar Twiscord! Cualquier problema o duda puedes contactarme via MD de Twitter (https://www.twitter.com/legadyn) o Discord Legadyn#0858**
-
 
  
